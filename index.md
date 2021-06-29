@@ -17,7 +17,7 @@ Operates Cloudflare's Global Anycast network.
   - **_Technologies used:_** Python, Jinja, Kubernetes, Prometheus, Grafana, Salt, BGP, Basic Golang
 <br><br>
 
-**Network Support Consultant @ [Akamai](https://www.akamai.com/) _(Sep 2014 - Jul 2015)_ <br>
+**Network Support Consultant** @ [Akamai](https://www.akamai.com/) _(Sep 2014 - Jul 2015)_ <br>
 Provides support to Akamai's CDN cache setup
   - Escalation point of ISP deployed Akamai AANP cache
   - Work with ISP for expansion for the cache deployment

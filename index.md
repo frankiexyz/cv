@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+# Frankie Hui
 
-You can use the [editor on GitHub](https://github.com/frankiexyz/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Network engineer based in Singapore_ <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:f@peering.sh) / [GitHub](https://github.com/frankiexyz/) 
 
-### Markdown
+## Technical Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Network Engineer** @ [Cloudflare](https://www.cloudflare.com/) _(Jul 2015 - Present)_ <br>
+Operates Cloudflare's Global Anycast network.
+  - Operates 200+ Point-of-Presences and connects to 250+ Internet Exchanges
+  - Contribute to the automation of the network operation (Python)
+  - Co-ordinate peering with ISP around the Globe
+  - In-depth understanding on Internet routing and CDN
+  - Escalation point of customer's network or performance issue 
+  - Supports customer's high traffic event and allocate proper resources
+  - **_Technologies used:_** Python, Jinja, Kubernetes, Prometheus, Grafana, Salt, BGP, Basic Golang
+<br><br>
 
-```markdown
-Syntax highlighted code block
+**Network Support Consultant @ [Akamai](https://www.akamai.com/) _(Sep 2014 - Jul 2015)_ <br>
+Provides support to Akamai's CDN cache setup
+  - Escalation point of ISP deployed Akamai AANP cache
+  - Work with ISP for expansion for the cache deployment
+<br><br>
 
-# Header 1
-## Header 2
-### Header 3
+**Network Engineer** @ [Pacnet](https://en.wikipedia.org/wiki/Pacnet) _(Apr 2013 - Sep 2014)_ <br>
+Operates Pacnet's IP transit and MPLS network
+  - Escalation point of customer tickets
+  - Responsible for Daily operation and scheduled maintenance in Pacnet's network
+    <br><br>
+  
+## 👩🏼‍🎓 Education
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/frankiexyz/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+** BSc (Hons) Computer Studies<br>
+[City University of Hong Kong](https://www.cityu.edu.hk/) - Hong Kong  _(2008 - 2011)_
